@@ -1,0 +1,7 @@
+export { default as Navbar } from "./Navbar/Navbar"
+export { default as Footer } from "./Footer/Footer"
+export { default as Hero } from "./Hero/Hero"
+export { default as Hero2} from "./Hero2/Hero2"
+export { default as Slide} from "./Slide/Slide"
+export { default as Section} from "./Sections/Sections"
+export { default as Article} from "./Article/Article"
