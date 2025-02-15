@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Norican&family=Signika+Negative:wght@300..700&family=Slabo+27px&family=Spicy+Rice&display=swap');
+.font-family{
+    font-family: "Slabo 27px", serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Norican&family=Signika+Negative:wght@300..700&family=Slabo+27px&family=Spicy+Rice&display=swap');
+.font-family1{
+    font-family: "Slabo 27px", serif;
+}
+
+.image-box{
+    height: 100%;
+    position: relative;
+    border-radius: 3px;
+}
+.image-texture{
+    background: url(image5.jpg);
+    mix-blend-mode: lighten;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    
+
+}
+.pop{
+    filter: drop-shadow(10px 10px 15px rgba(0, 0, 0, 0.5));
+    background-color: white;
+    border-radius: 20px 20px 0 0 ;
+}
+body{
+    overflow-y: hidden;
+}
+
